@@ -2,8 +2,6 @@
 #### Web Developer
 I'm Mozumder Tushar from Bangladesh and I am a Web Developer. I really enjoy learning languages and frameworks like to React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
-## Skills and Experience:  
-* ⚛REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mozumderTushar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mayen-uddin-mozumder-a6659b1b1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MozumderTushar1)  
 
