@@ -8,6 +8,8 @@ I'm Mozumder Tushar from Bangladesh and I am a Web Developer. I really enjoy lea
 - 🥅 2020 Goals: Learn Vue, Node
 - ⚡ Fun fact: I love to see movie and play cricket
 
+**[Resume & Cover Letter](https://drive.google.com/drive/folders/19GNy-RFfLwuxIjbkfoM5vOEhynxcfgDi?usp=sharing)**
+
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mozumderTushar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mayen-uddin-mozumder-a6659b1b1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MozumderTushar1)  
 
