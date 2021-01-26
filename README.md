@@ -5,7 +5,7 @@ I'm Mozumder Tushar from Bangladesh and I am a Web Developer. I really enjoy lea
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate with other web developer
 - 🤔 I’m looking for help with ...
-- 🥅 2020 Goals: Learn Vue, Node
+- 🥅 2021 Goals: Learn Vue, Node
 - ⚡ Fun fact: I love to see movie and play cricket
 
 **[Resume & Cover Letter](https://drive.google.com/drive/folders/19GNy-RFfLwuxIjbkfoM5vOEhynxcfgDi?usp=sharing)**
