@@ -1,8 +1,8 @@
 ### Hi there 👋, Mozumder Tushar
 
-🚀 **Master of Data Science @ University of Canberra**
-💻 **Former Junior Front End Web Developer**
-🔍 **Passionate about Data Science, MERN Stack, and JavaScript**
+🚀 **Master of Data Science @ University of Canberra**  
+💻 **Former Junior Front End Web Developer**  
+🔍 **Passionate about Data Science, MERN Stack, and JavaScript**  
 
 I am a dedicated and enthusiastic Master of Data Science student at the University of Canberra with a solid background in web development. I have experience building and maintaining responsive websites, and I am proficient in JavaScript and React JS. My professional experience includes working with Node JS and other technologies in the MERN stack.
 
