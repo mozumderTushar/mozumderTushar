@@ -1,12 +1,22 @@
 ### Hi there 👋, Mozumder Tushar
-#### Web Developer
-I'm Mozumder Tushar from Bangladesh and I am a Web Developer. I really enjoy learning languages and frameworks like to React and React Native. I also enjoy wireframing, UI, UX, and design in general.
 
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate with other web developer
-- 🤔 I’m looking for help with ...
-- 🥅 2021 Goals: Learn Vue, Node
-- ⚡ Fun fact: I love to see movie and play cricket
+🚀 **Master of Data Science @ University of Canberra**
+💻 **Former Junior Front End Web Developer**
+🔍 **Passionate about Data Science, MERN Stack, and JavaScript**
+
+I am a dedicated and enthusiastic Master of Data Science student at the University of Canberra with a solid background in web development. I have experience building and maintaining responsive websites, and I am proficient in JavaScript and React JS. My professional experience includes working with Node JS and other technologies in the MERN stack.
+
+### Skills & Expertise:
+- **Data Science:** Machine Learning, Data Analysis, Predictive Analytics
+- **Web Development:** JavaScript, React, Node.js, Express, MongoDB
+- **Programming Languages:** JavaScript, Python, C++
+- **Other Technologies:** HTML5, CSS3, SASS, Bootstrap, Firebase, MySQL, Heroku
+
+📧 Feel free to contact me at [mozumder.tushar02@gmail.com](mailto:mozumder.tushar02@gmail.com)  
+
+---
+
+This bio highlights your education, experience, skills, and key projects. It also includes links to contact you and view your repositories. Would you like any additional modifications or sections?
 
 **[Resume & Cover Letter](https://drive.google.com/drive/folders/19GNy-RFfLwuxIjbkfoM5vOEhynxcfgDi?usp=sharing)**
 
