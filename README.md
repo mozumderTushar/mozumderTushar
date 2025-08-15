@@ -37,7 +37,6 @@ I am a dedicated and enthusiastic Master of Data Science student at the Universi
 - **[Data Analysis with R Programming](https://coursera.org/verify/FPHZT32ZDICR)**  
 - **[Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/verify/AD06WTA33HI3)**  
 
-### 📄 [Resume & Cover Letter](https://drive.google.com/drive/folders/19GNy-RFfLwuxIjbkfoM5vOEhynxcfgDi?usp=sharing)
 
 ---
 
