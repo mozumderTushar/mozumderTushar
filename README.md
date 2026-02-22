@@ -39,12 +39,6 @@ I am a Master of Data Science graduate (GPA 6.25/7) from the University of Canbe
 - **Email:** mozumder.tushar02@gmail.com 
 - **LinkedIn:** linkedin.com/in/mozumder-tushar
 
----
-
-## 📊 GitHub Stats:
-[![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mozumderTushar&show_icons=true&theme=radical)](https://github.com/mozumderTushar/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozumderTushar&langs_count=8&layout=compact&theme=radical)](https://github.com/mozumderTushar/github-readme-stats)
 
 <!--
 **mozumderTushar/mozumderTushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
