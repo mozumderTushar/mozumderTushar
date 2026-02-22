@@ -1,23 +1,19 @@
 # Hi there 👋, I'm Mozumder Tushar
 
-🚀 **Master of Data Science @ University of Canberra**  
-💻 **Former Junior Front End Web Developer**  
-🔍 **Passionate about Data Science, MERN Stack, and JavaScript**  
+**Data Scientist | Full-Stack Developer | Problem Solver**  
 
-I am a dedicated and enthusiastic Master of Data Science student at the University of Canberra with a solid background in web development. I have experience building and maintaining responsive websites, and I am proficient in JavaScript and React JS. My professional experience includes working with Node JS and other technologies in the MERN stack.
+I am a Master of Data Science graduate (GPA 6.25/7) from the University of Canberra with a foundation in Computer Science & Engineering. I bridge the gap between building robust web applications and extracting actionable insights from the data they generate. My work ranges from developing full-stack MERN applications to benchmarking complex machine learning models across different programming languages.
 
-## 🔧 Skills & Expertise:
-### Data Science
-- **Machine Learning:** Scikit-Learn, TensorFlow
-- **Data Analysis:** Pandas, NumPy, Scipy, R
-- **Visualization:** Matplotlib, Tableau
-- **Statistical Modeling & Predictive Analytics**
+### 🛠 Technical Toolkit:
+- **Data Science:** Python (Pandas, NumPy, Scikit-learn), R, SQL, Power BI.
+- **Web Development:** JavaScript (ES6+), React.js, Node.js, Express, MongoDB
+- **Performance & Research:** Rust, Statistical Analysis, and Cross-Platform Model Benchmarking
+- **Analytics:** Google Data Analytics Professional Certificate (Coursera).
 
-### Web Development
-- **Frontend:** JavaScript, React, HTML5, CSS3, SASS, Bootstrap
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB, MySQL, Firebase
-- **DevOps & Deployment:** Docker, Heroku, Netlify
+### 📈 Featured Research & Projects
+- **ML Benchmarking:** Led a team to build a high-performance benchmarking suite using R and Rust, improving data pipeline evaluation by 35%.
+- **Cybersecurity Research:** Experimental analysis and risk mitigation frameworks for Smart-Home IoT ecosystems.
+- **Full-Stack Apps:** Developed various MERN-stack platforms including a Mental Health story-sharing site (MenTex) and a Doctors Portal.
 
 ### Programming Languages
 - **Proficient:** JavaScript, Python, SQL, R
