@@ -19,8 +19,6 @@ I am a Master of Data Science graduate (GPA 6.25/7) from the University of Canbe
 - **Proficient:** JavaScript, Python, SQL, R
 - **Familiar:** C++, Julia, Rust
 
-📧 Feel free to contact me at [mozumder.tushar02@gmail.com](mailto:mozumder.tushar02@gmail.com)  
-
 ---
 
 ### 📜 Certifications:
@@ -38,8 +36,8 @@ I am a Master of Data Science graduate (GPA 6.25/7) from the University of Canbe
 
 ## 📫 Get in Touch
 
-Email: mozumder.tushar02@gmail.com 
-LinkedIn: linkedin.com/in/mozumder-tushar
+- **Email:** mozumder.tushar02@gmail.com 
+- **LinkedIn:** linkedin.com/in/mozumder-tushar
 
 ---
 
