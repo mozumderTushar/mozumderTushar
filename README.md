@@ -36,10 +36,10 @@ I am a Master of Data Science graduate (GPA 6.25/7) from the University of Canbe
 
 ---
 
-## 🌐 Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mozumderTushar) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mayen-uddin-mozumder-a6659b1b1)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MozumderTushar1)
+## 📫 Get in Touch
+
+Email: mozumder.tushar02@gmail.com 
+LinkedIn: linkedin.com/in/mozumder-tushar
 
 ---
 
